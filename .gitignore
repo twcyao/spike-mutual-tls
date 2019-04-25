@@ -1,0 +1,6 @@
+ca/*
+client/*
+server/*
+\.srl
+!server/example.com.conf
+!.gitignore
